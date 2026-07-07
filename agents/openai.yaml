@@ -1,0 +1,4 @@
+interface:
+  display_name: "DR-ZHOU"
+  short_description: "IEEE-style SCI manuscript revision in Dr. Zhou's standards."
+  default_prompt: "Use $dr-zhou to revise this SCI manuscript section with Chinese explanations."
