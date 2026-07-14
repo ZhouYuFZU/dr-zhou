@@ -21,6 +21,15 @@ Default venue style:
 - Put the key technical noun close to the verb.
 - Each paragraph should have one controlling idea.
 
+## Objective Language Boundaries
+
+- Do not use exaggerated, promotional, absolute, or emotionally loaded words. Keep the tone objective, rigorous, and serious.
+- Do not use any dash punctuation in revised manuscript text, including em dashes, en dashes, and dash-like rhetorical breaks. Rewrite with commas, parentheses, semicolons, or separate sentences when needed.
+- Do not use defensive contrast structures such as `not ... but ...`, `rather than ...`, or `instead of ...` when they sound argumentative. State the positive technical claim directly.
+- Remove colloquial expressions, conversational transitions, and informal emphasis.
+- Avoid rare, ornate, or unnecessarily obscure words. Use standard scientific English that is precise and easy for reviewers to parse.
+- Prefer evidence-bound statements over evaluative adjectives. Let metrics, conditions, comparisons, equations, and figures carry the claim.
+
 ## Claim Discipline
 
 - Every number in the abstract, conclusion, and highlights must match the main text and figures/tables.
